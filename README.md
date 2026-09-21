@@ -1,6 +1,14 @@
 # HumanoidTTT: Test-Time Capability Reuse for Efficient Humanoid Control
 
-[Model weights](https://huggingface.co/AIGeeksGroup/HumanoidTTT) · [Files](https://huggingface.co/AIGeeksGroup/HumanoidTTT/tree/main)
+This repo is the official implementation of:
+
+> **HumanoidTTT: Test-Time Capability Reuse for Efficient Humanoid Control**
+>
+> Jingtai Yang\*, Yining Wu\*, Yanjun Li\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, and [Hao Tang](https://ha0tang.github.io/)<sup>‡</sup>
+>
+> \*Equal contribution. <sup>†</sup>Project lead. <sup>‡</sup>Corresponding author.
+>
+> ### [Paper](PAPER_URL) | [Website](https://aigeeksgroup.github.io/HumanoidTTT/) | [Model](https://huggingface.co/AIGeeksGroup/HumanoidTTT)
 
 HumanoidTTT reuses qualified full-motion capabilities when the current robot state
 lies inside their applicability regions. On a miss, a frozen motion generator
